@@ -1,8 +1,16 @@
+*{
+    margin: ;
+    padding: ;
+}
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(215, 251, 251);
 }
 .peter{
     color: orange;
+    font-size: 35px;
 } 
 .left-section-1{
     width: 40%;
@@ -12,4 +20,21 @@ body{
 }
 .Darling{
    
+}
+.top-banner{
+    background-image:url("img/output-onlinepngtools\ \(1\).png");
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+.hire-me{
+    background-image: linear-gradient(85deg, lightSalmon , tomato);
+    border-radius: 5px;
+    color: rgb(82, 82, 82);
+    font-weight: 700;
+    border: none;
+    font-size: 18px;
+    padding: 10px 20px;
+}
+.mid-banner{
+    
 }
